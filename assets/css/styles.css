@@ -34,7 +34,7 @@ a {
   padding: 18px 16px;
 }
 /* header */
-.header {
+.page-header {
   background-color: #e6f0ff;
   height: 100vh;
   position: relative;
@@ -50,6 +50,7 @@ a {
 }
 .navbar .action {
   margin-left: auto;
+  z-index: 2;
 }
 .navbar ul a {
   padding: 8px 14px;
