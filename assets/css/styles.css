@@ -489,6 +489,12 @@ a {
   display: block;
   min-width: 125px;
 }
+.footer .item5 a {
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #7a7a7e;
+}
 .footer .footer-icons {
   margin-top: 40px;
   gap: 26px;
