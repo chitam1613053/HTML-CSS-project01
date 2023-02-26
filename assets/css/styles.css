@@ -54,6 +54,10 @@ a {
 }
 .navbar ul a {
   padding: 8px 14px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.5px;
+  color: #4f5361;
 }
 .action .action-link {
   font-weight: 500;
